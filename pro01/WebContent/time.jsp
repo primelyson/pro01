@@ -3,6 +3,6 @@
 <html>
 <head><title>현재 시간</title></head>
 <body>
-현재 시각: <%= new java.util.Date() %>
+현재 시각: <%= new java.util.Date() %> 
 </body>
 </html>
